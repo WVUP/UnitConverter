@@ -171,7 +171,7 @@ public class Lesson02Tests
         return model;
     }
 
-    private static Type GetConversionsPageModelType()
+    public static Type GetConversionsPageModelType()
     {
         List<Type> candidates = typeof(Program).Assembly
             .GetTypes()
