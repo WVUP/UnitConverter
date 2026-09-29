@@ -15,6 +15,7 @@ You will fork this repository into your own GitHub account and use your fork thr
 | Lesson 2 — Route Parameters and Multiple Conversions | ![Lesson 2 Tests](../../actions/workflows/lesson-02-tests.yml/badge.svg) |
 | Lesson 3 — Forms and Model Binding | ![Lesson 3 Tests](../../actions/workflows/lesson-03-tests.yml/badge.svg) |
 | Lesson 4 — Tag Helpers and Named Handlers | ![Lesson 4 Tests](../../actions/workflows/lesson-04-tests.yml/badge.svg) |
+| Lesson 5 — Dependency Injection | ![Lesson 5 Tests](../../actions/workflows/lesson-05-tests.yml/badge.svg) |
 
 Each badge shows the current status of the automated tests for that stage of the project. A new lesson's badge may initially be failing; it should become green as you complete that lesson's requirements.
 

@@ -7,5 +7,6 @@
   </PropertyGroup>
     <ItemGroup>
         <PackageReference Include="UnitOf" Version="1.0.0" />
+        <PackageReference Include="UnitsNet" Version="5.75.1" />
     </ItemGroup>
 </Project>
